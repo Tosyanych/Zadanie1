@@ -1,0 +1,15 @@
+D:\repos\Zadanie\Zadanie\bin\Release\Zadanie.exe.config
+D:\repos\Zadanie\Zadanie\bin\Release\Zadanie.exe
+D:\repos\Zadanie\Zadanie\bin\Release\Zadanie.pdb
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.csproj.AssemblyReference.cache
+D:\repos\Zadanie\Zadanie\obj\Release\MainWindow.g.cs
+D:\repos\Zadanie\Zadanie\obj\Release\App.g.cs
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie_MarkupCompile.cache
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie_MarkupCompile.lref
+D:\repos\Zadanie\Zadanie\obj\Release\MainWindow.baml
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.g.resources
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.Properties.Resources.resources
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.csproj.GenerateResource.cache
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.csproj.CoreCompileInputs.cache
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.exe
+D:\repos\Zadanie\Zadanie\obj\Release\Zadanie.pdb
